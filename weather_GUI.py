@@ -1,3 +1,6 @@
+#by Emily Arnold
+#June 2021
+
 from tkinter import *
 from tkinter import font
 import requests
