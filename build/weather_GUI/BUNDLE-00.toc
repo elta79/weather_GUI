@@ -1,0 +1,3 @@
+([('weather_GUI',
+   '/Users/emilyarnold/Desktop/Python/projects/weather_GUI/dist/weather_GUI',
+   'EXECUTABLE')],)
